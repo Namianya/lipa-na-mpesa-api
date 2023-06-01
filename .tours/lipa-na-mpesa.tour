@@ -1,5 +1,11 @@
 {
   "$schema": "https://aka.ms/codetour-schema",
   "title": "Lipa na mpesa",
-  "steps": []
+  "steps": [
+    {
+      "file": "src/main.ts",
+      "description": "",
+      "line": 4
+    }
+  ]
 }
